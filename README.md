@@ -80,8 +80,10 @@ MafiaApp (React 19 + TypeScript)
 
 ---
 
-More at [0xgrek.com](https://0xgrek.com/projects/mafia-game-pwa)
+Live demo: [app-gold-seven-83.vercel.app](https://app-gold-seven-83.vercel.app/) · Portfolio: [0xgrek.com](https://0xgrek.com)
 
 ---
 
-MIT License
+© 2024-2026 Serhii Ivanenko.
+
+Licensed under the [MIT License](LICENSE).
